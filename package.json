@@ -1,10 +1,10 @@
 {
   "name": "Phantom",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "A minimalistic theme for Ghost inspired by the Designmodo Journal.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/haydenbleasel/ghost-themes.git"
+    "url": "https://github.com/jeffm13/ghost-themes.git"
   },
   "author": "Hayden Bleasel <haydenbleasel@gmail.com>",
   "bugs": {
